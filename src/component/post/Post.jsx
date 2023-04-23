@@ -29,10 +29,7 @@ const Post = () => {
       </span>
       </div>
       <p className="postdesc">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda
-        officia architecto deserunt deleniti? Labore ipsum aspernatur magnam
-        fugiat, reprehenderit praesentium blanditiis quos cupiditate ratione
-        atque, exercitationem quibusdam, reiciendis odio laboriosam?
+        Zaryab Tahir
       </p>
     
       
